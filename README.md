@@ -37,11 +37,14 @@ Free Platform to Learn and Get Certifications Path
 
 1. Cyber Security 101
 https://tryhackme.com/r/path/outline/cybersecurity101
-2. Cybersecurity for Students
+2. Cybersecurity Certificate by ISc2
+https://www.isc2.org/certifications/cc
+3. Cybersecurity for Students
 https://app.letsdefend.io/path/cybersecurity-for-students
-3. Network Fundamentals 
+4. Network Fundamentals 
 https://app.letsdefend.io/training/lessons/network-fundamentals
-
+5. Different IT Path
+https://app.cybrary.it/browse/paths/career-paths
 
 
 
