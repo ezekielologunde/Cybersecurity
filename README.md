@@ -31,12 +31,13 @@ Ethical Hacker
 **Resources:**
 Free Platform to Learn and Get Certifications Path
 
-1. Network Fundamentals 
-https://app.letsdefend.io/training/lessons/network-fundamentals
+1. Cyber Security 101
+https://tryhackme.com/r/path/outline/cybersecurity101
 2. Cybersecurity for Students
 https://app.letsdefend.io/path/cybersecurity-for-students
-3. Cyber Security 101
-https://tryhackme.com/r/path/outline/cybersecurity101
+3. Network Fundamentals 
+https://app.letsdefend.io/training/lessons/network-fundamentals
+
 
 
 
