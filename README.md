@@ -10,6 +10,10 @@ Why is Cybersecurity Important?
 
 In today's interconnected world, cyber threats are more prevalent than ever. Cyberattacks can have severe consequences, including identity theft, financial loss, and damage to critical infrastructure. By learning about cybersecurity, you can protect yourself and contribute to a safer digital environment.
 
+Check Out this Road Map for Learning Cybersecurity
+https://roadmap.sh/cyber-security
+
+
 What You'll Learn:
 
 Basic Cybersecurity Concepts:
@@ -44,3 +48,10 @@ https://app.letsdefend.io/training/lessons/network-fundamentals
 Let's Dive In!
 
 Start exploring the resources in this repository to build your cybersecurity knowledge. Remember, cybersecurity is an ongoing learning process, so stay curious and keep up with the latest trends. Together, we can create a safer digital future!
+
+
+Advance Learning Resources
+
+1. https://publish.obsidian.md/addielamarr/00+Home+MOC
+2. Learn about Cloud Concept: https://aws.amazon.com/education/awseducate/
+3. 
