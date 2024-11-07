@@ -46,6 +46,10 @@ https://app.letsdefend.io/training/lessons/network-fundamentals
 5. Different IT Path
 https://app.cybrary.it/browse/paths/career-paths
 
+**Hand-on Platform**
+1. https://academy.hackthebox.com/
+2. https://tryhackme.com/
+3. 
 
 
 Let's Dive In!
