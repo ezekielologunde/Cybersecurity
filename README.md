@@ -1,5 +1,10 @@
 # 🛡️ Cybersecurity Basics Repository
-
+## 📚 Table of Contents
+- [Introduction](#introduction)
+- [Learning Resources](#learning-resources)
+- [Community Forums](#community-forums)
+- [Certifications](#certifications)
+- 
 ## 📚 Introduction
 Welcome to the world of cybersecurity! Whether you're a curious 9th grader or a tech-savvy 12th grader, this repository will guide you through the essential concepts of digital security.
 
