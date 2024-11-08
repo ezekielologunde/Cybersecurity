@@ -1,14 +1,5 @@
 # 🌐 Cybersecurity Learning & Community Hub
 
-## 📚 Table of Contents
-- [Introduction](#introduction)
-- [Learning Resources](#learning-resources)
-- [Community Forums](#community-forums)
-- [Career Development](#career-development)
-- [Training Programs](#training-programs)
-- [Certifications](#certifications)
-
-## 🎯 Introduction
 Welcome to your comprehensive guide for cybersecurity learning, community engagement, and career development. Whether you're a beginner or experienced professional, this hub connects you with valuable resources and communities.
 
 ## 💬 Community Forums
