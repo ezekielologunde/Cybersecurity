@@ -1,5 +1,3 @@
-# Cybersecurity Certification Guide
-
 ## Free Certifications
 
 | Certification | Provider | Exam Cost | Training Cost | Notes |
@@ -23,6 +21,54 @@
 | A+ | $266 | $999 - $1,499 | Foundation IT certification |
 | Network+ | $381 | - | Networking fundamentals |
 | Security+ | $392 | - | Entry-level security certification |
+# Cybersecurity Certification Guide
+
+A comprehensive list of cybersecurity certifications, their costs, and training information.
+
+## Popular Certifications
+
+| Certification | Full Name | Provider | Exam Cost | Training Cost Range |
+|--------------|-----------|-----------|-----------|-------------------|
+| CISSP | Certified Information Systems Security Professional | (ISC)² | $749 | $2,000 - $5,000 |
+| CEH | Certified Ethical Hacker | EC-Council | $1,199 | $1,000 - $3,000 |
+| CISM | Certified Information Security Manager | ISACA | $760 | $1,000 - $3,500 |
+| CompTIA CySA+ | CompTIA Cybersecurity Analyst | CompTIA | $380 | $5,000 - $7,000 |
+| OSCP | Offensive Security Certified Professional | Offensive Security | $1,499 | Included (30-90 days lab) |
+
+## Specialized Certifications
+
+### Penetration Testing & Offensive Security
+- **PenTest+**: CompTIA ($466)
+- **GPEN**: GIAC Penetration Tester ($2,499)
+- **OSCE**: Offensive Security Certified Expert ($1,499)
+- **LPT**: Licensed Penetration Tester ($1,199)
+
+### Governance, Risk, and Compliance
+- **CRISC**: Certified in Risk and Information Systems Control ($760)
+- **CISA**: Certified Information Systems Auditor ($760)
+- **ISO 27001**: Lead Implementer/Auditor (~$1,500)
+
+### Cloud Security
+- **CCSP**: Certified Cloud Security Professional ($599)
+- **CCNA Security**: Cisco Certified Network Associate Security ($300)
+
+### Privacy & Data Protection
+- **CIPT**: Certified Information Privacy Technologist ($599)
+- **CIPM**: Certified Information Privacy Manager ($550)
+
+### Incident Response & Forensics
+- **GCIH**: GIAC Certified Incident Handler ($2,499)
+- **CHFI**: Computer Hacking Forensic Investigator ($1,199)
+- **ECIH**: EC-Council Certified Incident Handler ($1,199)
+
+## Training Resources
+
+Most certifications offer multiple training options:
+- Official training courses
+- Third-party boot camps
+- Self-study materials
+- Online learning platforms
+- Practice labs and environments
 
 ## Certification Path Recommendations
 
