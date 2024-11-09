@@ -21,9 +21,6 @@
 | A+ | $266 | $999 - $1,499 | Foundation IT certification |
 | Network+ | $381 | - | Networking fundamentals |
 | Security+ | $392 | - | Entry-level security certification |
-# Cybersecurity Certification Guide
-
-A comprehensive list of cybersecurity certifications, their costs, and training information.
 
 ## Popular Certifications
 
