@@ -121,6 +121,25 @@ A comprehensive guide to free and accessible cybersecurity education resources a
    - Join discussion forums
    - Participate in communities
    - Connect with professionals
+### Certification Paths
+
+#### Entry Level
+1. **CompTIA Security+**
+   - Duration: 2-3 months
+   - Foundation for cybersecurity career
+
+2. **ISC² CC (Certified in Cybersecurity)**
+   - Duration: Self-paced
+   - Entry-level certification
+
+#### Intermediate
+1. **CEH (Certified Ethical Hacker)**
+   - Duration: 3-6 months
+   - Focus on penetration testing
+
+2. **CISSP (Certified Information Systems Security Professional)**
+   - Duration: 6+ months
+   - Advanced security concepts
 
 ## 🔄 Stay Current
 
