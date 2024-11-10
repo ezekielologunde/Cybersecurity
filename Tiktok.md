@@ -79,7 +79,7 @@ Feel free to submit pull requests to add more tech-focused TikTok accounts to th
 
 ## 📜 Note
 
-This list is maintained by the community and is not affiliated with TikTok or any of the content creators listed. Follow counts and activity levels may vary.
+The community maintains this list and is not affiliated with TikTok or any of the content creators listed. Follow counts and activity levels may vary.
 
 ## 🔄 Updates
 
