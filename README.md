@@ -6,7 +6,7 @@
 - [Certifications](#certifications)
 - 
 ## 📚 Introduction
-Welcome to the world of cybersecurity! Whether you're a curious 9th grader or a tech-savvy 12th grader, this repository will guide you through the essential concepts of digital security.
+Welcome to the world of cybersecurity! Whether you're a curious 9th grader or a tech-savvy, this repository will guide you through the essential concepts of digital security.
 
 ## 🤔 What is Cybersecurity?
 Cybersecurity is the practice of protecting:
